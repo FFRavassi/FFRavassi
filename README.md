@@ -1,10 +1,12 @@
 ### Hi there 👋
 I am a fullstack developer currently studying at SoyHenry bootcamp. I have experience in many different languages, and I'm interested in keeping learning and in finding tech solutions ... 
 
-Languages-Frameworks-Tools:
 Lenguajes: javaScript
+
 FrontEnd: React | Redux | HTML | CSS
+
 BackEnd: Node | Express | Sequelize
+
 Database: mysql| PostgreSQL
 
 contact: 
