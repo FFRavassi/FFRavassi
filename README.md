@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a fullstack developer currently studying at Soy Henry boot camp. I have experience in many different languages, and I'm interested in keeping learning and in finding tech solutions ... 
+I am a fullstack developer currently studying at SoyHenry bootcamp. I have experience in many different languages, and I'm interested in keeping learning and in finding tech solutions ... 
 
 Languages-Frameworks-Tools:
 Lenguajes: javaScript
