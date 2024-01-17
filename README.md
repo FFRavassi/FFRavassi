@@ -7,7 +7,7 @@ FrontEnd: React | Redux | HTML | CSS
 
 BackEnd: Node | Express | Sequelize
 
-Database: mysql| PostgreSQL
+Database: mysql | PostgreSQL
 
 contact: 
 | francescoravassi@gmail.com
