@@ -1,19 +1,20 @@
 ### Hi there 👋
 I am a fullstack developer currently studying at SoyHenry bootcamp. I have experience in many different languages, and I'm interested in keeping learning and in finding tech solutions ... 
 
-Lenguajes: javaScript
+💻 Tech Stack:
 
-FrontEnd: React | Redux | HTML | CSS
+JavaScript React Redux NodeJS Express.js Bootstrap Sequelize Postgres Postman HTML CSS Material UI
 
-BackEnd: Node | Express | Sequelize
-
-Database: mysql | PostgreSQL
-
-contact: 
-| francescoravassi@gmail.com
-| https://www.linkedin.com/in/francesco-ravassi/
+- 🌱 I’m currently learning Typescript
 
 
+- 📫 Contáctame:
+ 
+email: francescoravassi@gmail.com
+
+🌐 Redes:
+
+LinkedIn
 
 <!--
 **FFRavassi/FFRavassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
