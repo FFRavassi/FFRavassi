@@ -4,8 +4,6 @@
 I’m a full-stack developercurrently living in Argentina. Previously, I worked in the field of gastronomy, where I acquired skills such as attention to detail, time management, and teamwork. After many years working as a chef, I found myself at a crossroads: should I keep working in the kitchen, or should I pursue my true passion? Software development is my passion, and so in 2023, I decided to start exploring the wonderful world of coding.I began studying at a bootcamp called Soy Henry with very little knowledge about programming (now I realize that I really didn't know anything), and after many trials and tribulations, I persisted and finally graduated from my bootcamp. 
 
 Now I have experience in many different languages, and I'm interested in continuing to learn, finding tech solutions, and being value to the people I work with.
-
-  
   
 
 <br/>  
@@ -45,7 +43,7 @@ Now I have experience in many different languages, and I'm interested in continu
 <br/>  
 
 
-##📫 Contact me:  
+## 📫 Contact me:  
 email: francescoravassi@gmail.com  
   
 
