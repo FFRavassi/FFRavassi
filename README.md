@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Francesco Ravassi</h1>
-<h3 align="center">a Full Stack developer currently living in Argentina. Previously, I worked in the field of gastronomy, where I acquired skills such as attention to detail, time management, and teamwork. After many years working as a chef, I found myself at a crossroads: should I keep working in the kitchen, or should I pursue my true passion? Software development is my passion, and so in 2023, I decided to start exploring the wonderful world of coding. I began studying at a bootcamp called Soy Henry with very little knowledge about programming (now I realize that I really didn't know anything), and after many trials and tribulations, I persisted and finally graduated from my bootcamp. Now I have experience in many different languages, and I'm interested in continuing to learn, finding tech solutions, and being value to the people I work with.</h3>
+<h3 align="start">A Full Stack developer currently living in Argentina. Previously, I worked in the field of gastronomy, where I acquired skills such as attention to detail, time management, and teamwork. After many years working as a chef, I found myself at a crossroads: should I keep working in the kitchen, or should I pursue my true passion? Software development is my passion, and so in 2023, I decided to start exploring the wonderful world of coding. I began studying at a bootcamp called Soy Henry with very little knowledge about programming (now I realize that I really didn't know anything), and after many trials and tribulations, I persisted and finally graduated from my bootcamp. Now I have experience in many different languages, and I'm interested in continuing to learn, finding tech solutions, and being value to the people I work with.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ffravassi&label=Profile%20views&color=f2f200&style=plastic" alt="ffravassi" /> </p>
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/francesco ravassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco ravassi" height="30" width="40" /></a>
-<a href="https://instagram.com/francesco ravassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francesco ravassi" height="30" width="40" /></a>
+<a href="https://instagram.com/francesco ravassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francescoravassi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
